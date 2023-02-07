@@ -512,3 +512,96 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  display: grid;
+}
+
+.hidden {
+  display: none;
+}
+
+.w-30 {
+  width: 7.5rem;
+}
+
+.w-500px {
+  width: 500px;
+}
+
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pr-6 {
+  padding-right: 1.5rem;
+}
+
+.text-subtitle {
+  font-size: 1.7rem;
+}
+
+.leading-8 {
+  line-height: 2rem;
+}
+
+@media (min-width: 768px) {
+  .md\:mx-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .md\:-mb-4 {
+    margin-bottom: -1rem;
+  }
+
+  .md\:-ml-8 {
+    margin-left: -2rem;
+  }
+
+  .md\:flex {
+    display: flex;
+  }
+
+  .md\:w-980px {
+    width: 980px;
+  }
+
+  .md\:w-396px {
+    width: 396px;
+  }
+
+  .md\:w-290px {
+    width: 290px;
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:place-self-end {
+    place-self: end;
+  }
+
+  .md\:bg-main-gray {
+    --tw-bg-opacity: 1;
+    background-color: rgb(240 242 245 / var(--tw-bg-opacity));
+  }
+
+  .md\:pt-30 {
+    padding-top: 7.5rem;
+  }
+
+  .md\:pb-40 {
+    padding-bottom: 10rem;
+  }
+}
