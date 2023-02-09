@@ -1,4 +1,4 @@
-# Facebook Login Clone Using Tailwind CSS <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+# Facebook Homepage Clone Using Tailwind CSS <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
  
 It was used in this project Tailwind CSS 3.2.4 and Node.js 19.4.0.
 
